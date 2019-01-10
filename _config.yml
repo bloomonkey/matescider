@@ -27,11 +27,21 @@ source_link: "https://github.com/bloomonkey/matescider"
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+
+  yellow: '#DBB919'
+  yellow-dark: '#655403'
+  yellow-light: '#FCE782'
+  yellow-lightest: '#FCF5D4'
+
+  green: '#78C717'
+  green-dark: '#335C02'
+  green-light: '#C4FA82'
+  green-lightest: '#E8FAD2'
+
+  red: '#DB5F19'
+  red-dark: '#652603'
+  red-light: '#FCAE82'
+  red-lightest: '#FCE2D4'
 
 kramdown:
   auto_ids:  false
